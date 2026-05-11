@@ -1,0 +1,37 @@
+[
+  {
+    "id": "p0",
+    "title": "Pescuezo Bandana",
+    "description": "Bandana premium estilo Pescuezo, ideal para cabeza y cuello con actitud colombiana.",
+    "price": 24.99,
+    "category": "Pescuezo",
+    "tags": ["Pescuezo", "Cabeza", "Cuello"],
+    "slug": "pescuezo-bandana",
+    "image": "/pescuezo.svg",
+    "rating": 4.9,
+    "badge": "Nuevo"
+  },
+  {
+    "id": "p1",
+    "title": "Artículos para hacer deporte",
+    "description": "Set premium de accesorios para entrenar con coraje: rodilleras, muñequeras y soporte para cualquier disciplina.",
+    "price": 79.99,
+    "category": "CORAJE SPORT",
+    "tags": ["Deporte", "Entrenamiento", "Resistencia"],
+    "slug": "articulos-para-hacer-deporte",
+    "image": "/coraje-sport.svg",
+    "rating": 4.8,
+    "badge": "Best seller"
+  },
+  {
+    "id": "p2",
+    "title": "Especial Espresso Blend",
+    "description": "Café colombiano premium para un espresso con notas de cacao y carácter intenso.",
+    "price": 18.50,
+    "category": "CORAJE CAFFE",
+    "tags": ["Café", "Colombiano", "Intenso"],
+    "slug": "especial-espresso-blend",
+    "image": "/coraje-caffe.svg",
+    "rating": 4.9
+  }
+]

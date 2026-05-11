@@ -1,0 +1,15 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sportGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#b45309" />
+      <stop offset="100%" stop-color="#7c2d12" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sportGradient)" rx="40" />
+  <circle cx="250" cy="250" r="90" fill="#ffffff20" />
+  <circle cx="900" cy="180" r="70" fill="#ffffff15" />
+  <circle cx="760" cy="540" r="110" fill="#ffffff10" />
+  <text x="50%" y="35%" text-anchor="middle" fill="#fff" font-family="Inter, sans-serif" font-size="72" font-weight="700">CORAJE SPORT</text>
+  <text x="50%" y="52%" text-anchor="middle" fill="#ffe8c3" font-family="Inter, sans-serif" font-size="38" font-weight="600">Artículos para hacer deporte</text>
+  <text x="50%" y="65%" text-anchor="middle" fill="#fde68a" font-family="Inter, sans-serif" font-size="24" letter-spacing="2">Accesorios premium para entrenar con coraje</text>
+</svg>
